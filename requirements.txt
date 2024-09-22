@@ -1,0 +1,6 @@
+yt-dlp
+PyQt5
+requests
+sponsorblock.py
+pyperclip
+pyinstaller
